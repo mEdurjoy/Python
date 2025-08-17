@@ -1,0 +1,8 @@
+print(5)
+print("10")
+print("Hello, World!")
+print(3.14)
+print(True)
+print("THis is me","Durjoy","and I am a software engineer")
+print("This is a test", 42, "for printing multiple items", sep=" |- ", end=".\n")
+print("This is a test", 42, "for printing multiple items", sep=" --- ", end="...")
